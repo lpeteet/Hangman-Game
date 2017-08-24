@@ -2,6 +2,7 @@
 var charGuesses = ["STOPIT", "DISNEY", "ELEPHANT", "SEAL"];
 var currGuessesIdx = 0;
 var wins = 0;
+var losses = 0;
 var currentWord = "";
 var guessesAllowed = 9;
 var guessesSoFar = []; //Characters already tried. Initialize to Empty Array

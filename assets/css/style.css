@@ -11,9 +11,9 @@ h1 {
 
 #navigation,.navbar .navbar-default {
     margin: 0px, 0px, 0px, 0px;
-    background-image: url("../images/hangmanLogo.jpg");
+    background-image: url("./../images/HangmanLogo.jpg");
     background-size: cover;
-    min-height:410px !important;
+    min-height: 410px !important;
 }
 
 #navHdrP {
